@@ -1,0 +1,23 @@
+{
+  "name": "belajar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/RianataAstama/belajar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RianataAstama/belajar/issues"
+  },
+  "homepage": "https://github.com/RianataAstama/belajar#readme",
+  "dependencies": {
+    "expess": "^0.0.1-security",
+    "express": "^4.18.2"
+  }
+}
